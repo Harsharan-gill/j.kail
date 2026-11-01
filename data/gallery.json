@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gal-1",
+    "title": "J.Kail Live on Stage - Car Hood Entry",
+    "category": "Live Shows",
+    "image": "/images/jkail-hero.jpg",
+    "description": "High energy live stage performance in streetwear outfit with massive arena crowd."
+  },
+  {
+    "id": "gal-2",
+    "title": "J.Kail Production Official Emblem",
+    "category": "Branding",
+    "image": "/images/jkail-production-logo.png",
+    "description": "Chrome embossed official studio mark of J.Kail Production, Ludhiana."
+  },
+  {
+    "id": "gal-3",
+    "title": "Soulful & Cinematic Studio Session",
+    "category": "Studio",
+    "image": "/images/jkail-about-portrait.jpg",
+    "description": "Artistic motion capture portrait reflecting lyrical introspection and song composition."
+  },
+  {
+    "id": "gal-4",
+    "title": "In the Recording Lab with Acoustic Guitar",
+    "category": "Studio",
+    "image": "/images/jkail-studio.jpg",
+    "description": "Crafting melodies and vocal tracking beside the Healer EP wall display."
+  },
+  {
+    "id": "gal-5",
+    "title": "Odhe Bare - Official Video Still",
+    "category": "Shoots",
+    "image": "/images/tracks/odhe-bare.jpg",
+    "description": "Atmospheric visual teaser from the hit collaborative single with Flameboy."
+  },
+  {
+    "id": "gal-6",
+    "title": "STUD (Single Artwork) – J.Kail x Flameboy",
+    "category": "Shoots",
+    "image": "/images/tracks/stud.jpg",
+    "description": "Official cover artwork for STUD featuring futuristic sunglasses and monochrome studio lighting."
+  },
+  {
+    "id": "gal-7",
+    "title": "Kaisi Sazaayi – Sunset Flower Field",
+    "category": "Shoots",
+    "image": "/images/tracks/kaisi-sazaayi.jpg",
+    "description": "Atmospheric cover artwork for emotive heartbreak single Kaisi Sazaayi in white kurta against golden hour sunset."
+  },
+  {
+    "id": "gal-8",
+    "title": "Tin-Chaar (3,4) – J.Kail x Flameboy",
+    "category": "Shoots",
+    "image": "/images/tracks/3-4.jpg",
+    "description": "Official cover shoot for Urban Desi party anthem 3,4 with neon aesthetic."
+  },
+  {
+    "id": "gal-9",
+    "title": "Live Vocal Power – Stage Mic Pose",
+    "category": "Live Shows",
+    "image": "/images/tracks/wang.jpg",
+    "description": "J.Kail performing live on stage with audience interaction and high octave Punjabi vocal delivery."
+  },
+  {
+    "id": "gal-10",
+    "title": "Missed Call (Album) – Red Roses Artwork",
+    "category": "Branding",
+    "image": "/images/tracks/missed-call-album.jpg",
+    "description": "Official cover visual for Missed Call featuring J.Kail in sharp white suit holding bouquet of red roses."
+  }
+]

@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #0A0D14;
+    --foreground: #F5F5F7;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-montserrat), sans-serif;
+    overflow-x: hidden;
+  }
+
+  /* Custom luxury scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #07090E;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1F2B48;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #C9A24B;
+  }
+}
+
+/* Gold Gradient Text utility */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FFF1C5 0%, #E8D08A 30%, #C9A24B 70%, #8C6A2B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Chrome Silver Gradient Text */
+.text-silver-gradient {
+  background: linear-gradient(180deg, #FFFFFF 0%, #D1D5DB 50%, #9CA3AF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Gold border glow */
+.border-gold-glow {
+  border: 1px solid rgba(201, 162, 75, 0.4);
+}
+
+.border-gold-glow:hover {
+  border-color: rgba(232, 208, 138, 0.8);
+}
+
+/* High-performance Card Panel (Zero blur lag, crisp 120fps scrolling) */
+.glass-panel {
+  background: #0E131F;
+  border: 1px solid rgba(201, 162, 75, 0.16);
+}
+
+.glass-panel:hover {
+  border-color: rgba(201, 162, 75, 0.35);
+}
+
+/* Fast and crisp button hover */
+.shimmer-button {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.shimmer-button:hover {
+  transform: translateY(-1px);
+}
+
+/* Slide Up animation for audio player */
+@keyframes slideUp {
+  from { transform: translateY(100%); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+.animate-slideUp {
+  animation: slideUp 0.2s ease-out;
+}
+
+/* Quick Fade In animation */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out;
+}
+
+/* Respect prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

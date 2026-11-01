@@ -1,0 +1,57 @@
+[
+  {
+    "id": "show-1",
+    "title": "Royal Punjabi Wedding Extravaganza",
+    "type": "Wedding",
+    "date": "2026-11-20",
+    "city": "Chandigarh",
+    "venue": "The Oberoi Sukhvilas Resort",
+    "time": "08:00 PM IST",
+    "status": "Upcoming",
+    "ticketLink": "/booking?type=live-show"
+  },
+  {
+    "id": "show-2",
+    "title": "Urban Desi Club Night Live",
+    "type": "Club/Night Show",
+    "date": "2026-12-05",
+    "city": "Delhi NCR",
+    "venue": "Club Privee, Shangri-La",
+    "time": "10:30 PM IST",
+    "status": "Upcoming",
+    "ticketLink": "/booking?type=live-show"
+  },
+  {
+    "id": "show-3",
+    "title": "VibeFest Annual College Fest",
+    "type": "College Fest",
+    "date": "2026-12-18",
+    "city": "Ludhiana",
+    "venue": "Punjab Agricultural University Grounds",
+    "time": "06:30 PM IST",
+    "status": "Upcoming",
+    "ticketLink": "/booking?type=live-show"
+  },
+  {
+    "id": "show-4",
+    "title": "Elite Winter Gala 2026",
+    "type": "Corporate",
+    "date": "2026-12-28",
+    "city": "Mumbai",
+    "venue": "Taj Lands End, Bandra",
+    "time": "08:30 PM IST",
+    "status": "Upcoming",
+    "ticketLink": "/booking?type=live-show"
+  },
+  {
+    "id": "show-5",
+    "title": "Private VIP Lounge Session",
+    "type": "Private Party",
+    "date": "2026-10-15",
+    "city": "Mohali",
+    "venue": "The Fort Private Estate",
+    "time": "09:00 PM IST",
+    "status": "Past",
+    "ticketLink": "/booking?type=live-show"
+  }
+]

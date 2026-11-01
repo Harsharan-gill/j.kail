@@ -1,0 +1,522 @@
+[
+  {
+    "id": "wang-2026",
+    "title": "WANG",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": "2026-10-27",
+    "collaborators": [],
+    "featured": true,
+    "duration": "3:04",
+    "coverImage": "/images/tracks/wang.jpg",
+    "audioPreview": "/audio/preview-wang.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "kaisi-sazaayi-2026",
+    "title": "Kaisi Sazaayi",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": "2026-07-25",
+    "collaborators": [],
+    "featured": true,
+    "duration": "3:22",
+    "coverImage": "/images/tracks/kaisi-sazaayi.jpg",
+    "audioPreview": "/audio/preview-kaisi-sazaayi.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "different-life-2026",
+    "title": "Different Life",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": null,
+    "collaborators": ["Flameboy", "Emo Devil"],
+    "featured": true,
+    "duration": "2:58",
+    "coverImage": "/images/tracks/different-life.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "stud-2026",
+    "title": "STUD",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:45",
+    "coverImage": "/images/tracks/stud.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "odhe-bare-2026",
+    "title": "Odhe Bare",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": null,
+    "collaborators": ["Flameboy"],
+    "featured": true,
+    "duration": "3:15",
+    "coverImage": "/images/tracks/odhe-bare.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "zindagi-hawa-mein-2026",
+    "title": "Zindagi Hawa Mein",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": null,
+    "collaborators": ["Emo Devil", "Zehn"],
+    "featured": false,
+    "duration": "3:30",
+    "coverImage": "/images/tracks/zindagi-hawa-mein.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "3-4-2026",
+    "title": "3,4",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2026,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:36",
+    "coverImage": "/images/tracks/3-4.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "in-pain-2025",
+    "title": "In Pain",
+    "releaseType": "ep",
+    "parentRelease": "Healer",
+    "year": 2025,
+    "releaseDate": "2025-01-01",
+    "collaborators": ["Emo Devil", "Gagan Bhatoye"],
+    "featured": true,
+    "duration": "3:10",
+    "coverImage": "/images/tracks/healer-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/us/album/healer-ep/1813392962",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "only-lies-2025",
+    "title": "Only Lies",
+    "releaseType": "ep",
+    "parentRelease": "Healer",
+    "year": 2025,
+    "releaseDate": "2025-01-01",
+    "collaborators": ["Emo Devil", "Gagan Bhatoye"],
+    "featured": false,
+    "duration": "2:54",
+    "coverImage": "/images/tracks/healer-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/us/album/healer-ep/1813392962",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "idk-2025",
+    "title": "IDK",
+    "releaseType": "ep",
+    "parentRelease": "Healer",
+    "year": 2025,
+    "releaseDate": "2025-01-01",
+    "collaborators": ["Emo Devil", "Gagan Bhatoye"],
+    "featured": false,
+    "duration": "3:02",
+    "coverImage": "/images/tracks/healer-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/us/album/healer-ep/1813392962",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "kaali-hoodie-2025",
+    "title": "Kaali Hoodie",
+    "releaseType": "ep",
+    "parentRelease": "96 Hour's",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Yoddha"],
+    "featured": false,
+    "duration": "2:49",
+    "coverImage": "/images/tracks/96-hours-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "feel-alone-2025",
+    "title": "Feel Alone",
+    "releaseType": "ep",
+    "parentRelease": "96 Hour's",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Yoddha"],
+    "featured": false,
+    "duration": "3:18",
+    "coverImage": "/images/tracks/96-hours-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "one-reel-2025",
+    "title": "One Reel",
+    "releaseType": "ep",
+    "parentRelease": "96 Hour's",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Yoddha"],
+    "featured": false,
+    "duration": "2:40",
+    "coverImage": "/images/tracks/96-hours-ep.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "fariyaad-2025",
+    "title": "Fariyaad",
+    "releaseType": "album",
+    "parentRelease": "Missed Call",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:35",
+    "coverImage": "/images/tracks/missed-call-album.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "teri-gali-2025",
+    "title": "Teri Gali",
+    "releaseType": "album",
+    "parentRelease": "Missed Call",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:14",
+    "coverImage": "/images/tracks/missed-call-album.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "intzaar-2025",
+    "title": "Intzaar",
+    "releaseType": "album",
+    "parentRelease": "Missed Call",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:42",
+    "coverImage": "/images/tracks/missed-call-album.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "kaliyaan-raatan-2025",
+    "title": "Kaliyaan Raatan",
+    "releaseType": "album",
+    "parentRelease": "Missed Call",
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:28",
+    "coverImage": "/images/tracks/missed-call-album.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "you-know-2025",
+    "title": "You Know",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Muzikidd"],
+    "featured": false,
+    "duration": "2:52",
+    "coverImage": "/images/tracks/you-know.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "straight-death-2025",
+    "title": "Straight Death",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Emo Devil"],
+    "featured": false,
+    "duration": "3:01",
+    "coverImage": "/images/tracks/straight-death.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "reload-2025",
+    "title": "Reload",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:47",
+    "coverImage": "/images/tracks/reload.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "why-2025",
+    "title": "Why",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:08",
+    "coverImage": "/images/tracks/why.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "7-days-2025",
+    "title": "7 Days",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:55",
+    "coverImage": "/images/tracks/7-days.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "street-out-2025",
+    "title": "Street Out",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "3:12",
+    "coverImage": "/images/tracks/street-out.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "yamm-2025",
+    "title": "YAMM",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": ["Gagan Bhatoye"],
+    "featured": false,
+    "duration": "3:05",
+    "coverImage": "/images/tracks/yamm.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "i-know-2025",
+    "title": "i Know",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:38",
+    "coverImage": "/images/tracks/i-know.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  },
+  {
+    "id": "12-bore-2025",
+    "title": "12 Bore",
+    "releaseType": "single",
+    "parentRelease": null,
+    "year": 2025,
+    "releaseDate": null,
+    "collaborators": [],
+    "featured": false,
+    "duration": "2:50",
+    "coverImage": "/images/tracks/12-bore.jpg",
+    "audioPreview": "/audio/preview-track.mp3",
+    "links": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw",
+      "appleMusic": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "jioSaavn": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_",
+      "gaana": "https://gaana.com/artist/j-kail",
+      "youtube": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-"
+    }
+  }
+]

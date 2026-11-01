@@ -1,0 +1,308 @@
+"use client";
+
+import Link from "next/link";
+import Image from "next/image";
+import {
+  Sliders, Mic2, Headphones, PenTool, Music2,
+  Sparkles, CheckCircle, ArrowRight, Clock,
+  Star, Layers, ChevronRight, Calendar
+} from "lucide-react";
+
+const services = [
+  {
+    icon: Music2,
+    title: "Custom Song Creation",
+    subtitle: "Original Compositions",
+    price: "Starting ₹15,000",
+    desc: "Complete original Punjabi or Urban Desi songs written, composed, and produced from scratch. Perfect for personal releases, YouTube/Instagram tracks, and debut singles.",
+    features: [
+      "Original lyrics in Punjabi / Hindi / English",
+      "Full melody composition & hookline",
+      "Vocal recording & performance by J.Kail",
+      "2 revision rounds included",
+      "Studio-grade final delivery (WAV + MP3)"
+    ]
+  },
+  {
+    icon: Mic2,
+    title: "Singing & Vocal Recording",
+    subtitle: "Professional Vocals",
+    price: "Starting ₹8,000",
+    desc: "Hire J.Kail's distinctive vocals for your track. Raw Punjabi emotion, melodic hooks, rap verses, or lush harmonies — delivered with world-class studio quality.",
+    features: [
+      "Punjabi & Hindi vocal delivery",
+      "Rap verses & melodic hooks",
+      "Layered harmonies & backing vocals",
+      "Professional microphone recording",
+      "Tuned & edited vocal stems delivered"
+    ]
+  },
+  {
+    icon: PenTool,
+    title: "Lyrics Writing",
+    subtitle: "Authentic Punjabi Penmanship",
+    price: "Starting ₹4,000",
+    desc: "Authentic Punjabi lyrics penned by J.Kail for any mood — heartbreak, love anthems, street bangers, party tracks, wedding songs, or corporate jingles.",
+    features: [
+      "Punjabi lyrics with Romanized transliteration",
+      "Contextual storytelling & emotional depth",
+      "Hook & chorus writing",
+      "Punjabi poetry (Shayari) style available",
+      "Quick turnaround 2-5 days"
+    ]
+  },
+  {
+    icon: Layers,
+    title: "Music Composition",
+    subtitle: "Melodies & Arrangements",
+    price: "Starting ₹6,000",
+    desc: "Full melodic composition and musical arrangement. From acoustic folk structures to trap and drill-influenced Desi beats, J.Kail composes across all modern Punjabi sub-genres.",
+    features: [
+      "Melody composition & scale selection",
+      "Chord progressions & instrument layers",
+      "Punjabi Folk, Trap, Drill, R&B structures",
+      "MIDI arrangement & live instrument overlay",
+      "Session file handover on request"
+    ]
+  },
+  {
+    icon: Sliders,
+    title: "Full Production",
+    subtitle: "End-to-End Studio",
+    price: "Starting ₹25,000",
+    desc: "The complete J.Kail Production experience — writing, composing, recording, beat production, session musicians, and final mastered mix for your release.",
+    features: [
+      "Everything from Lyrics to Final Master",
+      "808 bass, drum programming, live guitars",
+      "Vocal recording + pitch correction",
+      "Commercial loudness mastering",
+      "Streaming-ready deliverables"
+    ]
+  },
+  {
+    icon: Headphones,
+    title: "Mixing & Mastering",
+    subtitle: "Streaming-Ready Audio",
+    price: "Starting ₹5,000",
+    desc: "Pristine mix balance, punchy low-end, polished vocals, and loudness mastering to Spotify, Apple Music, and JioSaavn platform standards.",
+    features: [
+      "Stem import (any DAW format)",
+      "Frequency EQ & dynamic compression",
+      "Vocal clarity & reverb polish",
+      "Stereo widening & imaging",
+      "Master at -14 LUFS Spotify / -16 LUFS Apple"
+    ]
+  }
+];
+
+const processSteps = [
+  { step: "01", title: "Initial Consultation", desc: "Share your vision via WhatsApp or Booking Form. Discuss mood, references, budget, and timeline." },
+  { step: "02", title: "Creative Briefing", desc: "J.Kail reviews references and maps out the sonic direction, lyrical theme, and production style." },
+  { step: "03", title: "Production & Recording", desc: "Beats, lyrics, melody, and vocals crafted hands-on at J.Kail Production, Ludhiana." },
+  { step: "04", title: "Review & Revisions", desc: "You receive a draft for feedback. Up to 2 revision rounds to perfect the track to your liking." },
+  { step: "05", title: "Mixing & Mastering", desc: "Final studio polish with professional mixing and commercial loudness mastering." },
+  { step: "06", title: "Delivery & Release", desc: "Receive your high-quality WAV + MP3 files, ready for streaming platforms or YouTube upload." }
+];
+
+export default function ProductionPage() {
+  return (
+    <div className="relative overflow-hidden py-12 sm:py-20 px-4 sm:px-8 max-w-7xl mx-auto">
+
+      <div className="absolute top-20 left-1/3 w-96 h-96 bg-[radial-gradient(circle,_rgba(201,162,75,0.05)_0%,_transparent_70%)] pointer-events-none -z-10" />
+
+      {/* Hero */}
+      <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center mb-24">
+        <div className="lg:col-span-6 flex flex-col gap-6">
+          <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full glass-panel border border-gold-500/30 text-gold-400 text-xs tracking-widest uppercase w-fit">
+            <Sliders className="w-3.5 h-3.5" />
+            <span>J.Kail Production Studio</span>
+          </div>
+          <h1 className="font-serif text-4xl sm:text-6xl font-black text-white tracking-wide">
+            Create <span className="text-gold-gradient">World-Class</span> Punjabi Music
+          </h1>
+          <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
+            J.Kail Production offers comprehensive music creation services — from a single hook to a full studio album. Urban Desi, Punjabi Hip-Hop, Emotional Ballads, Party Anthems. Whatever your vision, J.Kail brings it to life.
+          </p>
+          <div className="flex flex-wrap items-center gap-3 text-sm">
+            {["100% Original", "Streaming-Ready", "Quick Turnaround", "All Genres"].map((tag) => (
+              <span key={tag} className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-navy-900 border border-navy-750 text-xs text-gray-300">
+                <CheckCircle className="w-3 h-3 text-gold-400" />
+                {tag}
+              </span>
+            ))}
+          </div>
+          <div className="flex flex-col sm:flex-row items-center gap-4 pt-2">
+            <Link
+              href="/booking?type=production"
+              className="shimmer-button px-8 py-4 rounded-full bg-gold-gradient text-navy-950 font-bold text-xs uppercase tracking-widest shadow-gold-sm hover:scale-105 transition-transform flex items-center gap-2"
+            >
+              <Sliders className="w-4 h-4 stroke-[2.5]" />
+              Start a Music Project
+            </Link>
+            <a
+              href="https://wa.me/919915639404?text=Hi%20J.Kail%20Production,%20I%20want%20to%20book%20music%20production%20services."
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-6 py-4 rounded-full glass-panel border border-emerald-500/50 text-emerald-300 hover:bg-emerald-900/30 font-bold text-xs uppercase tracking-widest transition-colors"
+            >
+              WhatsApp Us
+            </a>
+          </div>
+        </div>
+
+        <div className="lg:col-span-6 relative">
+          <div className="relative aspect-[4/3] rounded-3xl overflow-hidden border border-gold-500/30 shadow-2xl">
+            <Image
+              src="/images/jkail-studio.jpg"
+              alt="J.Kail Production Studio"
+              fill
+              priority
+              className="object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
+            <div className="absolute bottom-6 left-6 right-6">
+              <div className="px-4 py-3 rounded-xl glass-panel border border-gold-500/40 bg-navy-950/90">
+                <p className="text-gold-400 text-xs uppercase tracking-widest font-bold mb-1">
+                  J.Kail Production • Ludhiana, Punjab
+                </p>
+                <p className="text-white text-sm font-serif font-bold">
+                  Independent Studio Setup — Built for Authentic Punjabi Music
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Services Grid */}
+      <div className="mb-24">
+        <div className="text-center max-w-2xl mx-auto mb-12">
+          <h2 className="font-serif text-3xl sm:text-4xl font-bold text-white mb-3">
+            Studio Services & <span className="text-gold-gradient">Pricing</span>
+          </h2>
+          <p className="text-sm text-gray-300">
+            Transparent pricing with complete creative quality. Every project is handled personally by J.Kail.
+          </p>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {services.map((srv, idx) => {
+            const Icon = srv.icon;
+            return (
+              <div
+                key={idx}
+                className="group p-6 rounded-2xl glass-panel border border-navy-750 hover:border-gold-500/50 transition-all duration-300 hover:-translate-y-1 hover:shadow-gold-sm flex flex-col"
+              >
+                <div className="flex items-start justify-between mb-4">
+                  <div className="w-12 h-12 rounded-xl bg-gold-gradient text-navy-950 flex items-center justify-center group-hover:scale-110 transition-transform">
+                    <Icon className="w-6 h-6 stroke-[2.2]" />
+                  </div>
+                  <span className="text-xs font-bold text-gold-400 bg-navy-900 px-3 py-1 rounded-full border border-gold-500/30">
+                    {srv.price}
+                  </span>
+                </div>
+
+                <h3 className="font-serif text-xl font-bold text-white mb-1 group-hover:text-gold-300 transition-colors">
+                  {srv.title}
+                </h3>
+                <p className="text-xs text-gold-400 uppercase tracking-wider font-semibold mb-3">
+                  {srv.subtitle}
+                </p>
+                <p className="text-sm text-gray-400 leading-relaxed mb-4 flex-1">
+                  {srv.desc}
+                </p>
+
+                <ul className="space-y-1.5 mb-5 border-t border-navy-800 pt-4">
+                  {srv.features.map((f, i) => (
+                    <li key={i} className="flex items-start gap-2 text-xs text-gray-300">
+                      <CheckCircle className="w-3.5 h-3.5 text-gold-400 flex-shrink-0 mt-0.5" />
+                      <span>{f}</span>
+                    </li>
+                  ))}
+                </ul>
+
+                <Link
+                  href="/booking?type=production"
+                  className="w-full text-center py-2.5 rounded-full border border-gold-500/50 text-gold-400 hover:bg-gold-500/10 text-xs font-bold uppercase tracking-wider transition-colors"
+                >
+                  Book This Service
+                </Link>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+
+      {/* Process Timeline */}
+      <div className="mb-24">
+        <div className="text-center max-w-2xl mx-auto mb-12">
+          <h2 className="font-serif text-3xl sm:text-4xl font-bold text-white mb-3">
+            Our Creative <span className="text-gold-gradient">Process</span>
+          </h2>
+          <p className="text-sm text-gray-300">
+            A transparent, collaborative workflow from first message to final mastered track.
+          </p>
+        </div>
+
+        <div className="relative">
+          <div className="absolute left-8 top-0 bottom-0 w-px bg-gradient-to-b from-gold-500/60 via-gold-500/30 to-transparent hidden md:block" />
+
+          <div className="flex flex-col gap-8">
+            {processSteps.map((step, idx) => (
+              <div
+                key={idx}
+                className="flex flex-col md:flex-row items-start gap-6 md:pl-20 relative"
+              >
+                <div className="absolute left-3 top-3 w-10 h-10 rounded-full bg-gold-gradient text-navy-950 font-black text-sm flex items-center justify-center hidden md:flex shadow-gold-sm z-10">
+                  {step.step}
+                </div>
+
+                <div className="md:hidden w-10 h-10 rounded-full bg-gold-gradient text-navy-950 font-black text-sm flex items-center justify-center shadow-gold-sm flex-shrink-0">
+                  {step.step}
+                </div>
+
+                <div className="p-5 rounded-2xl glass-panel border border-navy-750 hover:border-gold-500/30 transition-colors flex-1">
+                  <h3 className="font-serif text-lg font-bold text-white mb-1">
+                    {step.title}
+                  </h3>
+                  <p className="text-sm text-gray-400 leading-relaxed">{step.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+
+      {/* CTA Banner */}
+      <div className="relative rounded-3xl overflow-hidden border border-gold-500/40 p-8 sm:p-14 text-center bg-gradient-to-r from-navy-950 via-navy-900 to-navy-950">
+        <div className="absolute inset-0 bg-gold-500/5 pointer-events-none" />
+        <div className="relative z-10 max-w-2xl mx-auto flex flex-col items-center gap-6">
+          <Sparkles className="w-10 h-10 text-gold-400" />
+          <h2 className="font-serif text-3xl sm:text-4xl font-black text-white">
+            Ready to Create Your <span className="text-gold-gradient">Next Hit?</span>
+          </h2>
+          <p className="text-sm sm:text-base text-gray-300">
+            Fill out the music production booking form and J.Kail will personally get back to you within 24 hours.
+          </p>
+          <div className="flex flex-col sm:flex-row items-center gap-4">
+            <Link
+              href="/booking?type=production"
+              className="shimmer-button px-8 py-3.5 rounded-full bg-gold-gradient text-navy-950 font-bold text-xs uppercase tracking-widest shadow-gold-sm hover:scale-105 transition-transform"
+            >
+              Start Your Music Project
+            </Link>
+            <a
+              href="https://www.instagram.com/j.kail_production?utm_source=ig_web_button_share_sheet&srtk=ZDNlZDc0MzIxNw=="
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-6 py-3.5 rounded-full glass-panel border border-pink-500/50 text-pink-300 font-bold text-xs uppercase tracking-widest transition-colors hover:bg-pink-900/20"
+            >
+              DM on Instagram @j.kail_production
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  );
+}

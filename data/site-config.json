@@ -1,0 +1,114 @@
+{
+  "artist": {
+    "name": "J.Kail",
+    "realName": "Jatin Verma",
+    "productionHouse": "J.Kail Production",
+    "owner": "J.Kail",
+    "location": "Ludhiana, Punjab, India",
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "country": "India",
+    "roles": [
+      "Singer",
+      "Lyricist",
+      "Composer",
+      "Music Producer"
+    ],
+    "tagline": "Singer • Lyricist • Composer • Producer",
+    "bio": "J.Kail (Jatin Verma) is a rising Punjabi singer, lyricist, composer and music producer based in Ludhiana, Punjab. Running his own independent setup, J.Kail Production, he releases a steady stream of urban Desi, hip-hop and emotive Punjabi tracks. He has gained traction through collaborative EPs, albums and singles with indie artists like Emo Devil, Gagan Bhatoye, Yoddha, Zehn, Flameboy and Muzikidd.",
+    "services": [
+      {
+        "title": "Live Show Bookings",
+        "description": "High-octane Punjabi & Urban Desi live performances for weddings, college fests, club shows, corporate gigs, and private VIP events.",
+        "icon": "Mic2"
+      },
+      {
+        "title": "Music Production",
+        "description": "Commercial-grade Punjabi, Hip-Hop, Drill, and Urban Desi music production tailored to industry streaming standards.",
+        "icon": "Sliders"
+      },
+      {
+        "title": "Mixing & Mastering",
+        "description": "Pristine audio fidelity, punchy bass, balanced vocal depth, and loudness optimization ready for Spotify & Apple Music.",
+        "icon": "Headphones"
+      },
+      {
+        "title": "Custom Song Creation",
+        "description": "Bespoke singing, lyrical compositions, melodies, and full soundtrack arrangements crafted for artists, labels, and personal milestones.",
+        "icon": "Sparkles"
+      }
+    ],
+    "collaborators": [
+      "Emo Devil",
+      "Gagan Bhatoye",
+      "Yoddha",
+      "Zehn",
+      "Flameboy",
+      "Muzikidd"
+    ]
+  },
+  "contact": {
+    "phone": "+91 99156 39404",
+    "telLink": "tel:+919915639404",
+    "whatsappNumber": "919915639404",
+    "whatsappLink": "https://wa.me/919915639404",
+    "email": "contact@jkailproduction.com",
+    "address": "J.Kail Production Studio, Ludhiana, Punjab 141001, India",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109552.1965819777!2d75.787269!3d30.900965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a837462345a7d%3A0x681102348ec60610!2sLudhiana%2C%20Punjab!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+  },
+  "socials": {
+    "instagram": {
+      "name": "Instagram",
+      "handle": "@j.kail_production",
+      "url": "https://www.instagram.com/j.kail_production?utm_source=ig_web_button_share_sheet&srtk=ZDNlZDc0MzIxNw==",
+      "description": "For booking, production, mixing and mastering enquiries"
+    },
+    "facebook": {
+      "name": "Facebook",
+      "label": "J Kail Official",
+      "url": "https://facebook.com/jkailofficial",
+      "note": "PLACEHOLDER_FACEBOOK_URL: Replace with official Facebook page link when ready"
+    },
+    "youtube": {
+      "name": "YouTube",
+      "handle": "@itsjkail",
+      "url": "https://youtube.com/@itsjkail?si=vJDzW3uN8eapMQ5-",
+      "embedUrl": "https://www.youtube.com/embed?listType=user_uploads&list=itsjkail"
+    },
+    "spotify": {
+      "name": "Spotify",
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PsTBw?si=HRzyjlrBQ7GRiXZ6wDn9NA&utm_source=copy-link&pi=-0n16B40Rc-iV",
+      "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO2PsTBw?utm_source=generator&theme=0"
+    },
+    "appleMusic": {
+      "name": "Apple Music",
+      "url": "https://music.apple.com/in/artist/j-kail/1786293959",
+      "healerEpUrl": "https://music.apple.com/us/album/healer-ep/1813392962"
+    },
+    "jioSaavn": {
+      "name": "JioSaavn",
+      "url": "https://www.jiosaavn.com/artist/j.kail-songs/LYa6bwEoc7M_"
+    },
+    "gaana": {
+      "name": "Gaana",
+      "url": "https://gaana.com/artist/j-kail"
+    },
+    "amazonMusic": {
+      "name": "Amazon Music",
+      "url": "https://music.amazon.com/artists/B0DN94J89B/j-kail"
+    }
+  },
+  "branding": {
+    "logoImage": "/images/jkail-production-logo.png",
+    "heroImage": "/images/jkail-hero.jpg",
+    "aboutImage": "/images/jkail-about-portrait.jpg",
+    "studioImage": "/images/jkail-studio.jpg",
+    "theme": {
+      "primary": "#C9A24B",
+      "goldLight": "#E8D08A",
+      "goldDark": "#8C6A2B",
+      "navyDark": "#0A0D14",
+      "navyLight": "#0F1420"
+    }
+  }
+}

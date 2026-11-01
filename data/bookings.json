@@ -1,0 +1,51 @@
+{
+  "liveShows": [
+    {
+      "id": "LS-2026-1001",
+      "fullName": "Harpreet Singh",
+      "phone": "+91 98765 43210",
+      "email": "harpreet.singh@example.com",
+      "eventType": "Wedding",
+      "eventDate": "2026-11-28",
+      "cityVenue": "Grand Orion Palace, Chandigarh",
+      "audienceSize": "500-800 guests",
+      "budgetRange": "₹2,50,000 - ₹4,00,000",
+      "duration": "90 mins (Full Live Band)",
+      "message": "Looking for high energy Punjabi tracks and live performance for sangeet night.",
+      "status": "Confirmed",
+      "createdAt": "2026-10-29T14:30:00Z"
+    },
+    {
+      "id": "LS-2026-1002",
+      "fullName": "Rohan Sharma",
+      "phone": "+91 98112 34567",
+      "email": "rohan.sharma@example.com",
+      "eventType": "Club/Night Show",
+      "eventDate": "2026-12-12",
+      "cityVenue": "Playboy Club, New Delhi",
+      "audienceSize": "300+ guests",
+      "budgetRange": "₹1,50,000 - ₹2,50,000",
+      "duration": "60 mins DJ + Vocals",
+      "message": "Urban Desi night special guest performance.",
+      "status": "Contacted",
+      "createdAt": "2026-10-30T10:15:00Z"
+    }
+  ],
+  "production": [
+    {
+      "id": "PR-2026-2001",
+      "fullName": "Vikram Gill",
+      "phone": "+91 98888 77777",
+      "email": "vikram.music@example.com",
+      "serviceNeeded": "Full production",
+      "genre": "Punjabi Hip-hop / Drill",
+      "purpose": "Personal release",
+      "referenceLink": "https://open.spotify.com/track/odhe-bare",
+      "deadline": "2026-11-25",
+      "budgetRange": "₹50,000 - ₹1,00,000",
+      "description": "Need complete music production, beat composition, and final mixing & mastering for upcoming single.",
+      "status": "New",
+      "createdAt": "2026-10-31T09:45:00Z"
+    }
+  ]
+}

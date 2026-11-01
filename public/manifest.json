@@ -1,0 +1,21 @@
+{
+  "name": "J.Kail - Official Music Artist & Production",
+  "short_name": "J.Kail",
+  "description": "Official website of Punjabi singer, lyricist, composer & music producer J.Kail (Jatin Verma).",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0D14",
+  "theme_color": "#C9A24B",
+  "icons": [
+    {
+      "src": "/images/jkail-production-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/jkail-production-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
